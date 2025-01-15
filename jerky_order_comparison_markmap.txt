@@ -1,0 +1,92 @@
+**Order Type Comparison**
+========================
+
+### Order Type #1
+---------------
+
+* **Summary:**
+	+ Total Jerky Weight: 15.25 oz
+	+ Cost: $111.21
+	+ Number of Jerky Types: 9
+
+* **Order #1:**
+	| Jerky Type         | Weight (oz) | Total Distribution (%)  |
+	|--------------------|-------------|-------------------------|
+	| Antelope Jerky     | 1.5         | 9.84%                   |
+	| Kangaroo Jerky     | 1.5         | 9.84%                   |
+	| Alligator Jerky    | 1.75        | 11.46%                  |
+	| Duck Jerky         | 1.75        | 11.46%                  |
+	| Wild Boar Jerky    | 1.75        | 11.46%                  |
+	| Venison Jerky      | 1.75        | 11.46%                  |
+	| Elk Jerky          | 1.75        | 11.46%                  |
+	| Habañero Buffalo Jerky | 1.75    | 11.46%                  |
+	| Tibetan Yak Jerky  | 1.75        | 11.46%                  |
+	| **Total**          | **15.25**   | **100.00%**             |
+
+* **Weight Distribution:**
+	+ 2 jerky types weigh 1.5 oz each (2 * 1.5 oz = 3 oz = 19.68%)
+	+ 7 jerky types weigh 1.75 oz each (7 * 1.75 oz = 12.25 oz = 80.32%)
+
+### Order Type #2
+---------------
+
+* **Summary:**
+	+ Total Jerky Weight: 17.5 oz
+	+ Cost: $116.02
+	+ Number of Jerky Types: 15
+
+* **Order #2:**
+	| Jerky Type           | Weight (oz) | Total Distribution (%) |
+	|----------------------|-------------|------------------------|
+	| Original Beef Jerky  | 1           | 5.71%                  |
+	| Teriyaki Beef Jerky  | 1           | 5.71%                  |
+	| Pepper Beef Jerky    | 1           | 5.71%                  |
+	| Sweet & Spicy Beef Jerky | 1       | 5.71%                  |
+	| Garlic Pepper Beef Jerky | 1       | 5.71%                  |
+	| Turkey Jerky         | 1           | 5.71%                  |
+	| Elk Jerky            | 1           | 5.71%                  |
+	| Buffalo Jerky        | 1           | 5.71%                  |
+	| Pepper Venison Jerky | 1           | 5.71%                  |
+	| Alligator Jerky      | 1           | 5.71%                  |
+	| Wild Boar Jerky      | 1           | 5.71%                  |
+	| Ostrich Jerky        | 1.5         | 8.57%                  |
+	| Antelope Jerky       | 1.5         | 8.57%                  |
+	| Duck Jerky           | 1.75        | 10.00%                 |
+	| Tibetan Yak Jerky    | 1.75        | 10.00%                 |
+	| **Total**            | **17.5**    | **100.00%**            |
+
+* **Weight Distribution:**
+	+ 11 jerky types weigh 1 oz each (11 * 1 oz = 11 oz = 64.29%)
+	+ 2 jerky types weigh 1.5 oz each (2 * 1.5 oz = 3 oz = 17.14%)
+	+ 2 jerky types weigh 1.75 oz each (2 * 1.75 oz = 3.5 oz = 18.57%)
+
+### Key Insights
+----------------
+
+**Order #1 Insights:**
+* Order Type #1 has fewer jerky types (9) and a lower total jerky weight (15.25 oz) compared to Order Type #2.
+* Order Type #1 has diverse jerky types but no variety of beef-based jerky types.
+* Order Type #1 has a distribution of weight where 2 items make up 19.68% and 7 items make up 80.32% of the total.
+* Unlike Order #2, which features various beef jerky flavors, Order #1 does not have any traditional beef jerky flavors.
+
+**Order #2 Insights:**
+* Order Type #2 has a higher total jerky weight (17.5 oz vs 15.25 oz), but the difference in cost is only $4.81 ($116.02 vs $111.21).
+* Order Type #2 includes more jerky types (15) than Order Type #1 (9).
+* Order Type #2 has a variety of beef-based jerky types, including Original Beef Jerky, Teriyaki Beef Jerky, and 3 others.
+
+**Common factors:**
+* There are common jerky types between the two orders, including: Elk, Venison, Alligator Jerky, Wild Boar Jerky, Antelope Jerky, Duck Jerky, and Tibetan Yak Jerky.
+
+### Cost Per Ounce Comparison
+-----------------------------
+
+* Order Type #1 Cost Per Ounce: $111.21 / 15.25 oz ≈ $7.30 per oz
+* Order Type #2 Cost Per Ounce: $116.02 / 17.5 oz ≈ $6.63 per oz
+
+### So Which is the Better Buy?
+-------------------------------
+
+1. **Cost Per Ounce:** Order #2 has a lower cost per ounce, at $6.63 per ounce compared to Order #1's $7.30 per ounce. This means that you're getting more value for your money with Order #2.
+2. **Variety and Options:** Order #2 includes 15 different jerky types, offering a wider range of flavors and options for the customer. This variety can be appealing to customers who want to try different flavors and don't want to settle for just a few options.
+3. **Lower Average Weight Per Jerky Type:** Order #2 has a more even distribution of weights, with 11 jerky types weighing only 1 oz each. While this may not be ideal for customers who prefer larger portions, it can be beneficial for those who want to try a range of flavors without committing to larger quantities.
+4. **More Beef Jerky Options:** Order #2 features multiple beef jerky flavors, which is likely to appeal to customers who are fans of traditional beef jerky.
